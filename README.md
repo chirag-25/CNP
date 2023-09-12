@@ -29,3 +29,5 @@ Here are the predictions on the test set:
 
 # MNIST Dataset
 This was the simple experiment of image completion using CNPs. We trained the model on MNIST dataset and then gave a 300 random context points in the forward pass to predict the target points(all 784 points). We were able to get good results.
+
+![MNIST](mnist.png)
