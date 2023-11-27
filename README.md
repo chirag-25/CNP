@@ -1,3 +1,4 @@
+All the analysis and comparision is explained in the [Report](https://github.com/chirag-25/CNP/blob/main/Report.pdf).
 # 1D regression sine wave
 
 The idea was to see that whether the model can learn the sine wave function from a few context points after training the CNP on a variety of different amplitude, frequency and phases. We did multiple expirements warying both amplitude, phase and frequency of the data. For each expirment, we trained the data on around 100 context sets. 
